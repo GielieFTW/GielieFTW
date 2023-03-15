@@ -1,7 +1,7 @@
-<h1 align="left">Hey, Guillaume here.</h1><img align="right" src="https://media.tenor.com/CiJuhjUFaeIAAAAd/gojo-satoru-jujutsu-kaisen.gif" width = 200/>
+<h1 align="left">Hey, Guillaume here.</h1><img align="right" wdith="200px" src="https://media.tenor.com/CiJuhjUFaeIAAAAd/gojo-satoru-jujutsu-kaisen.gif"/>
 
 - 👀 I’m interested in having my code run at all times 
-- 🌱 I’m currently learning Python and Java -- 3nd Year in BSc Information Techonolgy :)
+- 🌱 I’m currently working an Fullstack Backend Developer
 - 📫 How to reach me send me an Email @ gvgielie11@gmail.com
 
 <!---
