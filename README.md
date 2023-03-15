@@ -1,3 +1,4 @@
+<h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Juandre</h1>
 - 👋 Hi, I’m @GielieFTW
 - 👀 I’m interested in having my code run at all times :P and Anime yeah definitely anime 
 - 🌱 I’m currently learning Python and Java -- 3nd Year in BSc Information Techonolgy :)
